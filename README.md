@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AJkago
-- 👀 I’m interested in traveling.
+- 👀 I like traveling.
 - 🌱 I’m currently learning Android Application.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
